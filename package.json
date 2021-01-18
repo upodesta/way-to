@@ -1,0 +1,17 @@
+{
+  "name": "myway-to",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brandflow-push-sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mkdirp": "^1.0.4",
+    "request": "^2.88.2",
+    "underscore": "^1.12.0"
+  }
+}
